@@ -11,3 +11,5 @@ and answer questions:
 -- 3. What trends can we see in the data?
 
 Tools: SSMS, PowerBI, Git, Github
+
+![alt text](hotelRevenue.png)
